@@ -1,0 +1,1046 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"special",
+				"specialMethods"
+			],
+			[
+				"db",
+				"dbData"
+			],
+			[
+				"change",
+				"changeName"
+			],
+			[
+				"create",
+				"createFullName"
+			],
+			[
+				"_",
+				"_createObjectFromArray"
+			],
+			[
+				"return",
+				"returnType"
+			],
+			[
+				"last",
+				"lastName"
+			],
+			[
+				"prefix",
+				"prefixName"
+			],
+			[
+				"first",
+				"firstName"
+			],
+			[
+				"method",
+				"method_exists"
+			],
+			[
+				"is",
+				"is-changeset"
+			],
+			[
+				"lng",
+				"longText"
+			],
+			[
+				"modal",
+				"modalId"
+			],
+			[
+				"test",
+				"testValue"
+			],
+			[
+				"default",
+				"defaultOptions"
+			],
+			[
+				"key",
+				"keyCode"
+			],
+			[
+				"conat",
+				"contactDetails"
+			],
+			[
+				"api",
+				"apiHost"
+			],
+			[
+				"account",
+				"accountHasArtist"
+			],
+			[
+				"cona",
+				"contactDetails"
+			],
+			[
+				"pers",
+				"personalDetails"
+			],
+			[
+				"persona",
+				"personalDetails"
+			],
+			[
+				"success",
+				"successObject"
+			],
+			[
+				"artist",
+				"artist2workgroup"
+			],
+			[
+				"newA",
+				"newA2W"
+			],
+			[
+				"contact",
+				"contactDetails"
+			],
+			[
+				"new",
+				"newA2W"
+			],
+			[
+				"add",
+				"addArtist2Workgroup"
+			],
+			[
+				"birth",
+				"birthdayDay"
+			],
+			[
+				"birthday",
+				"birthdayMonth"
+			],
+			[
+				"name",
+				"nameLocal"
+			],
+			[
+				"s",
+				"shareAccepted"
+			],
+			[
+				"contac",
+				"contactDetailsIsValid"
+			],
+			[
+				"personal",
+				"personalDetails"
+			],
+			[
+				"pass",
+				"passportName"
+			],
+			[
+				"may",
+				"maySeeSecretDetails"
+			],
+			[
+				"save",
+				"saveEditContact"
+			],
+			[
+				"per",
+				"personalDetails"
+			],
+			[
+				"nam",
+				"nameValidated"
+			],
+			[
+				"v",
+				"validateNamePartsHasError"
+			],
+			[
+				"validate",
+				"validateNamePartsHasError"
+			],
+			[
+				"vali",
+				"validateError"
+			],
+			[
+				"full",
+				"fullName"
+			],
+			[
+				"artistgroup",
+				"artistgroup-create"
+			],
+			[
+				"start",
+				"startTime"
+			],
+			[
+				"labelTrack",
+				"labelTrackPlural"
+			],
+			[
+				"arti",
+				"artistSelected"
+			],
+			[
+				"regex",
+				"regexString"
+			],
+			[
+				"workgroup",
+				"workgroupSelected"
+			],
+			[
+				"se",
+				"selectedWorkgroup"
+			],
+			[
+				"label",
+				"labelShort"
+			],
+			[
+				"email",
+				"email2"
+			],
+			[
+				"cahnge",
+				"changesetContact"
+			],
+			[
+				"changes",
+				"changesetContact"
+			],
+			[
+				"Con",
+				"ContactDetailsValidations"
+			],
+			[
+				"veri",
+				"verifyCredentials"
+			],
+			[
+				"very",
+				"veryfyCredentials"
+			],
+			[
+				"valida",
+				"validateFormat"
+			],
+			[
+				"CRI",
+				"CRITICAL_LOG"
+			],
+			[
+				"update",
+				"updateData"
+			],
+			[
+				"WOK",
+				"WORKGROUPS_MEMBER"
+			],
+			[
+				"prepa",
+				"preparedAccount"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"dbTA",
+				"dbTaskData"
+			],
+			[
+				"transit",
+				"transitionToRoute"
+			],
+			[
+				"data",
+				"dataset"
+			],
+			[
+				"c",
+				"changeset"
+			],
+			[
+				"umlaute",
+				"umlauteLower"
+			],
+			[
+				"umla",
+				"umlauteLower"
+			],
+			[
+				"AUTH_PWD_NOT",
+				"AUTH_PWD_NOT_VALID"
+			],
+			[
+				"throw",
+				"throwOne"
+			],
+			[
+				"error",
+				"errorHandler"
+			],
+			[
+				"show",
+				"showCreateWorkgroup"
+			],
+			[
+				"C",
+				"CRITICAL_EMAIL"
+			],
+			[
+				"chage",
+				"changeset"
+			],
+			[
+				"prod",
+				"production"
+			],
+			[
+				"produ",
+				"productions"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"artist2wg",
+				"artist2wgsForAccount"
+			],
+			[
+				"art",
+				"artist2wg"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"artists",
+				"artists2workgroupsForAccount"
+			],
+			[
+				"WORK",
+				"WORKGROUPS_CONTESTENT"
+			],
+			[
+				"a2w",
+				"a2wId"
+			],
+			[
+				"accounts",
+				"accounts2workgroups"
+			],
+			[
+				"account2",
+				"accounts2workgroups"
+			],
+			[
+				"user",
+				"userArtist"
+			],
+			[
+				"updat",
+				"update"
+			],
+			[
+				"obje",
+				"ObjectBuilder"
+			],
+			[
+				"sign",
+				"signup"
+			],
+			[
+				"Error",
+				"ErrorHandler"
+			],
+			[
+				"schedul",
+				"scheduleViews"
+			],
+			[
+				"schedu",
+				"scheduleViews"
+			],
+			[
+				"schedule",
+				"scheduleView"
+			],
+			[
+				"session",
+				"session-account"
+			],
+			[
+				"working",
+				"workingTable"
+			],
+			[
+				"not",
+				"notifications"
+			],
+			[
+				"event",
+				"eventDisplay"
+			],
+			[
+				"ERror",
+				"ErrorHandler"
+			],
+			[
+				"even",
+				"eventType"
+			],
+			[
+				"main",
+				"mainTypeCode"
+			],
+			[
+				"subTYpes",
+				"subTypes"
+			],
+			[
+				"type",
+				"typeSelected"
+			],
+			[
+				"saved",
+				"savedSettings"
+			],
+			[
+				"subType",
+				"subTypes"
+			],
+			[
+				"events",
+				"eventsService"
+			],
+			[
+				"end",
+				"endTime"
+			],
+			[
+				"pro",
+				"production"
+			],
+			[
+				"scroll",
+				"scrollPositions"
+			],
+			[
+				"scr",
+				"scrollTop"
+			],
+			[
+				"table",
+				"tableWrapper"
+			],
+			[
+				"artis",
+				"artist2event"
+			],
+			[
+				"status",
+				"statusData"
+			],
+			[
+				"parse",
+				"parseVCF"
+			],
+			[
+				"upda",
+				"uploadFiles"
+			],
+			[
+				"block",
+				"block-themed"
+			],
+			[
+				"isn",
+				"is_null"
+			],
+			[
+				"has",
+				"hasManyName"
+			],
+			[
+				"null",
+				"NULL"
+			],
+			[
+				"hasMany",
+				"hasManyItem"
+			],
+			[
+				"side",
+				"sideloadModelName"
+			],
+			[
+				"date",
+				"dateRange"
+			],
+			[
+				"timer",
+				"timerEnd"
+			],
+			[
+				"finish",
+				"finishSunday"
+			],
+			[
+				"Y",
+				"Y-MM-DD"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"la",
+				"lastDate"
+			],
+			[
+				"a2e",
+				"a2es"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "scss",
+		"selected_items":
+		[
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"ta",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"origa",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"ori",
+				"Origami: Destroy Pane on the Left"
+			],
+			[
+				"orig",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package ",
+				"Package Control: Add Channel"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"inde",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"pack inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack ins",
+				"Package Control: Install Package"
+			],
+			[
+				"packe",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 181.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/jefff/Google Drive/www/ember-addons/ember-vcard"
+	],
+	"file_history":
+	[
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/components/ui/forms/location-edit/template.hbs",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/backstage/venues/venue/template.hbs",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/components/ui/forms/location-edit/component.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/backstage/venues/route.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/backstage/venues/template.hbs",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/backstage/workgroup/route.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/backstage/workgroups/route.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/backstage/route.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/backstage/productions/route.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/backstage/production/route.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/backstage/production/template.hbs",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/backstage/production/controller.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/components/members/member-listitem/template.hbs",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/components/members/member-edit/template.hbs",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/mixins/reset-scroll-position.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/backstage/account/route.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/backstage/artist/route.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/styles/app.scss",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/backstage/workgroup/controller.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/backstage/workgroup/template.hbs",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/components/workgroup/label-edit/template.hbs",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/components/form/file-input/component.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/dev-tools/fileinput/template.hbs",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/components/form/file-input/template.hbs",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/app.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/ember-cli-build.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/php/FileConfig.php",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/php/vendor/jeffstagedoor/Api/api/FileManager.php",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/php/vendor/jeffstagedoor/Api/api/Image.php",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/php/vendor/jeffstagedoor/Api/api/FileUpload.php",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/components/form/file-input/originalworking_component.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/dev-tools/fileinput/component.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/components/ui/image-cropper/template.hbs",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/components/ui/image-cropper/component.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/backstage/account/template.hbs",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/router.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/backstage/account/controller.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/components/artistgroup/artistgroup-create/component.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/components/ui/jeff-modal/component.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/dev-tools/modals/controller.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/styles/oneUI.scss",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/services/rights.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/helpers/rights.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/components/page-layout/main-header/template.hbs",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/components/ui/forms/name-edit/component.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/php/vendor/jeffstagedoor/Api/api/Account.php",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/php/vendor/jeffstagedoor/Api/api/Model.php",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/php/vendor/jeffstagedoor/Api/api/ApiPut.php",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/php/vendor/jeffstagedoor/Api/api/Api.php",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/mixins/names.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/php/vendor/jeffstagedoor/Api/api/Names.php",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/php/vendor/jeffstagedoor/Api/api/Log/apiLog/ApiLog 20180203.txt",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/php/vendor/jeffstagedoor/Api/api/ErrorHandler.php",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/php/vendor/jeffstagedoor/Api/api/debughelpers.php",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/php/vendor/jeffstagedoor/Api/api/Environment.php",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/php/vendor/jeffstagedoor/Api/api/ApiPost.php",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/php/vendor/jeffstagedoor/Api/api/Log/LogDefault.php",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/php/vendor/jeffstagedoor/Api/api/Log/LogLogin.php",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/php/Constants.php",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/php/models/Accounts.php",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/components/ui/forms/personal-details/template.hbs",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/components/ui/forms/personal-details/component.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/backstage/artist/template.hbs",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/components/artistgroup/artistgroup-create/template.hbs",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/components/artistgroup/artistgroup-edit/component.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/components/artistgroup/track-list/template.hbs",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/components/artistgroup/artistgroup-edit/template.hbs",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/services/jeff-modal.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/services/texts.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/components/ui/tooltip-button/component.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/backstage/schedules/production/develop/controller.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/services/artist2event.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/services/countries.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/application/route.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/application/controller.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/components/ui/jeff-modal/modal-wrapper/component.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/components/ui/jeff-modal/template.hbs",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/application/template.hbs",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/components/ui/jeff-modal/modal-content/component.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/components/ui/jeff-modal/modal-backdrop/component.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/components/ui/jeff-modal/modal-content/template.hbs",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/components/ui/jeff-modal/modal-wrapper/template.hbs",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/backstage/artists/new/controller.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/package.json",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/dev-tools/modals/template.hbs",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/components/ui/jeff-modal/backdrop/component.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/components/ui/jeff-modal/backdrop/template.hbs",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/components/ui/my-modal/component.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/components/ui/my-modal/template.hbs",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/templates/error-message.hbs",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/styles/ember-dialog/ember-dialog.scss",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/styles/_modal.scss",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/components/ui/modal/template.hbs",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/components/ui/modal/component.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/components/ember-remodal.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/php/vendor/jeffstagedoor/Api/api/MailerPrototype.php",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/backstage/artists/new/template.hbs",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/php/Tasks.php",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/helpers/or.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/helpers/eq.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/dev-tools/controller.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/dev-tools/template.hbs",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/helpers/countries.js",
+		"/C/Users/jefff/AppData/Local/Temp/Temp1_flag-icon-css-master.zip/flag-icon-css-master/sass/_flag-icon-base.scss",
+		"/C/Users/jefff/AppData/Local/Temp/Temp1_flag-icon-css-master.zip/flag-icon-css-master/sass/_variables.scss",
+		"/C/Users/jefff/AppData/Local/Temp/Temp1_flag-icon-css-master.zip/flag-icon-css-master/sass/flag-icon.scss",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/components/form/name-edit/component.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/components/ui/forms/contact-details/template.hbs",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/components/snippets/contact-display/template.hbs",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/helpers/gender.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/backstage/artist/controller.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/config/environment.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/components/ui/forms/contact-details/component.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/components/form/name-edit/_old_component.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/components/ui/form-input/component.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/components/ui/form-input/template.hbs",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/dev-tools/name-edit/controller.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/dev-tools/name-edit/template.hbs",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/regex/collection.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/services/gender.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/services/dates.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/validations/contact-details.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/components/form/name-edit/template.hbs",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/components/form/name-edit/_old_template.hbs",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/tests/integration/pods/components/artistgroup/artistgroup-create/component-test.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/components/account/artist-link/template.hbs",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/tests/integration/pods/components/account/artist-link/component-test.js",
+		"/C/Users/jefff/Google Drive/www/myStagedoor/app/pods/components/production/production-create/component.js"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 116.0,
+		"where_history":
+		[
+			"C:\\Users\\jefff\\Google Drive\\www\\myStagedoor\\app\\pods",
+			"C:\\Users\\jefff\\Google Drive\\www\\myStagedoor\\app\\pods\\components",
+			"C:\\Users\\jefff\\Google Drive\\www\\myStagedoor\\",
+			"C:\\Users\\jefff\\Google Drive\\www\\myStagedoor\\php",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"block-content-narrow",
+			"$data->crop->",
+			"$data->crop",
+			"doCrop",
+			"_this",
+			"user",
+			"special is set in",
+			"requi",
+			"log",
+			"Log",
+			"Log->write",
+			"Log",
+			"first",
+			"x",
+			"_determineRequestType",
+			"_getFullRequest",
+			"putSpecial",
+			"putSpecias",
+			"names",
+			"create",
+			"artistgroup",
+			"modal",
+			"// Container that the modal scrolls within",
+			"display: none",
+			"elementId",
+			"applicationController",
+			"_this",
+			"Log",
+			"_this",
+			");",
+			"',",
+			"\t\tnewArtist.set('",
+			"first",
+			"_this",
+			"that",
+			"shareAccepted",
+			"artistSharedContactDetails",
+			"changeset",
+			"Pristine",
+			"changeset",
+			"that",
+			"_this",
+			"changeset",
+			"Artistgroup",
+			"_this",
+			"nameValidated",
+			"first",
+			"Artistgroup",
+			"splitting",
+			"'",
+			"Artistgroup",
+			"Employee",
+			"location",
+			"_this",
+			"that",
+			"workingActions",
+			"_this",
+			"that",
+			"_this",
+			"that",
+			"_this",
+			"contactDetails",
+			"XX",
+			"NA",
+			" \"",
+			"sendErrors",
+			"_prepareQuery",
+			"throw new",
+			"throw",
+			"_buildInsert",
+			"insert",
+			"success",
+			"verifyCredentials",
+			"Edit",
+			"getLastERror",
+			"_this",
+			"postcode",
+			"address",
+			"model",
+			"changeset",
+			"save",
+			"model",
+			"UserInvite",
+			"_this",
+			"changeset",
+			"_needs",
+			"_this",
+			"account",
+			"model",
+			"Search",
+			"UserInvite",
+			"account",
+			"isPubli",
+			"WorkgroupSearch",
+			".",
+			"umlauteLower",
+			"verification",
+			"Email",
+			"email",
+			"that",
+			".",
+			"\\",
+			"\n",
+			"_this",
+			"verifyCredentials",
+			"line",
+			"file",
+			"_this",
+			"search",
+			"save",
+			"ActionsBox",
+			"_th",
+			"Inv",
+			"passwordConfirm",
+			"Password",
+			"password",
+			"Password",
+			"password",
+			"Email",
+			"email",
+			"identification",
+			"isvalidpassword",
+			"password",
+			"identification",
+			"login",
+			"Login",
+			"change",
+			"input"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"calendar",
+			"{{#ui/form-input-group}}",
+			"{{#ui/form-input-group",
+			"('notifications').warning",
+			"('notifications').error",
+			"\t\t\tif(!this.get('mayWork')) {\n\t\t\t\tthis.get('notifications').warning('You are not allowed to do that.');\n('notifications').error",
+			"that.get('notifications')",
+			"this.get('notifications')",
+			"this.get('notifications').",
+			"notifications: service('notification-messages'),",
+			"notifications: Ember.inject.service('notification-messages'),",
+			"notifications: service('notification-messages'),",
+			"accountIsSiteAdmin",
+			"$ENV->urls->",
+			"valerrors",
+			"$objWorkgroups->getWorkgroups()",
+			"$wg",
+			"$wg\n$objUser->getID()",
+			"\n$objUser->getID()",
+			"$objUser->getID()\n$objUser->getID()",
+			"$objUser->u_rights",
+			"public static\n$objUser->u_rights",
+			"public static\n",
+			"workgroups"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 156.0
+	},
+	"pinned_build_system": "",
+	"project": "ember-vcard.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"app/pods/components/ui/forms/personal-details/component.js"
+			],
+			[
+				"classespro",
+				"Classes/Production.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 344.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
