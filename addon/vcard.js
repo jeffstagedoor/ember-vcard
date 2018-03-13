@@ -62,13 +62,10 @@ export default {
 					} else {
 					// or if it's a simple 'EMAIL'
 						if(result[keys]) { // if this key was already used, we need to change that into an array
-							console.log('keyalready used: '+keys);
 							if(Array.isArray(result[keys])) { // we have an array already, so we can just push
 								result[keys].push(this.seperateValues(values, keys));
 							}
 							if(typeof result[keys] == 'object' || typeof result[keys] == 'string') { // we have an object, so a single meta/value pair
-								console.log('and its an object:');
-								console.log(result[keys]);
 								let oldItem = result[keys];
 								result[keys] = [];
 								result[keys].push(oldItem);
@@ -97,9 +94,7 @@ export default {
 				// check if META is in style TYPE=PREF or TYPE=WORK,VOICE
 				if(m.indexOf('=')!=-1) {
 					let itemParts = m.split('=');
-					let item = {};
-					// item[itemParts[0]] = itemParts[1];
-					result[itemParts[0]] = itemParts[1]; //.push(item);
+					result[itemParts[0]] = itemParts[1];
 				} else {
 					result['value'+i++] = m;
 				}
