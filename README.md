@@ -17,7 +17,7 @@ in your controller/component import the package
 
 then parse any vCard-string like so:
 
-	`actions: {
+	actions: {
 		parse() {
 			let parsed = vcard.parse(this.get('vcardString'), true);
 			console.log(parsed);
@@ -25,7 +25,7 @@ then parse any vCard-string like so:
 			let stringified = JSON.stringify(parsed, 0,2);
 			this.set('outputParsed', stringified);
 		},
-	}`
+	}
 
 
 The method parse has two parameters:
