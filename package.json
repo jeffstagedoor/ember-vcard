@@ -1,17 +1,17 @@
 {
   "name": "ember-vcard",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "An ember-cli vCard parser and creator",
   "keywords": [
     "ember-addon"
   ],
   "license": "MIT",
-  "author": "",
+  "author": "Jeff Fohner",
   "directories": {
     "doc": "doc",
     "test": "tests"
   },
-  "repository": "",
+  "repository": "https://github.com/jeffstagedoor/ember-vcard/",
   "scripts": {
     "build": "ember build",
     "start": "ember server",

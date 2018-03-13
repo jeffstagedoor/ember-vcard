@@ -1,3 +1,21 @@
-<h2 id="title">Welcome to Ember</h2>
+<h2 id="title">vCard Parser</h2>
+
+<div class="container">
+	<div><h4>Input</h4></div>
+	<div><h4>Parsed Output</h4></div>
+	<div><h4>Input Form</h4></div>
+	<div><h4>vCardOutput</h4></div>
+
+	<div>{{textarea id="vcardInput" rows="20" cols="40" value=vcardText2}}<br>
+		<button {{action 'parse'}}>Parse</button>
+	</div>
+	<div><pre>{{outputParsed}}</pre></div>
+	<div>the form...</div>
+	<div><textarea id="vcardOutput" rows="20" cols="40">{{vcardOutput}}</textarea></div>
+
+	<div></div>
+</div>
+
+
 
 {{outlet}}
