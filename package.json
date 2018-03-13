@@ -1,7 +1,7 @@
 {
   "name": "ember-vcard",
-  "version": "0.0.0",
-  "description": "An ember-cli vCard parser and creator",
+  "version": "0.1.0",
+  "description": "An ember-cli vCard parser (and soon creator)",
   "keywords": [
     "ember-addon"
   ],

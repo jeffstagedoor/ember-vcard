@@ -1,12 +1,37 @@
 # ember-vcard
 
-This README outlines the details of collaborating on this Ember addon.
+This is a simple vCard parser for ember-cli.    
+It exports (now) only one usable function: parse(vCardString[, bringinForm])
 
 ## Installation
 
 * `git clone <repository-url>` this repository
 * `cd ember-vcard`
 * `npm install`
+
+## Usage
+
+in your controller/component import the package
+
+`import vcard from 'ember-vcard/vcard';`
+
+then parse any vCard-string like so:
+
+	`actions: {
+		parse() {
+			let parsed = vcard.parse(this.get('vcardString'), true);
+			console.log(parsed);
+			// or
+			let stringified = JSON.stringify(parsed, 0,2);
+			this.set('outputParsed', stringified);
+		},
+	}`
+
+
+The method parse has two parameters:
+- the vCard as string to be parsed
+- an ooptional flag if the parsed object should be re-formed to a more useable form.
+
 
 ## Running
 
